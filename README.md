@@ -1,6 +1,4 @@
-======================
  TEAM FLYING MONKEYS
-======================
 
 
 Entire Site:
